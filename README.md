@@ -5,9 +5,9 @@ Eu sou uma pessoa desenvolvedora full-stack.
 
 🏡 Guarulhos, SP - Brasil
 
-📖 Estudo na [Trybe](https://www.betrybe.com/)
+📖 Estudei na [Trybe](https://www.betrybe.com/)
 
-👩‍💻 Estou aprendendo sobre **Back-End**
+👩‍💻 Estou trabalhando com **Back-End**
 
 🥰 Motivada pela diferença que a tecnologia pode fazer na vida das pessoas
 ## 🔗 Contato
